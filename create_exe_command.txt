@@ -1,0 +1,2 @@
+pyinstaller --noconsole --onefile --name autoVCS --icon=icon.ico gui.py
+
