@@ -31,6 +31,6 @@ To update this program with changes, the required files (in the same directory) 
 2. After changes have been made to the program, it can be test run by just running the gui.py file. If all is well, a new exe file can be generated. 
 3. First, to keep clean workspace, ensure you have a directory with and only with the 6 required files previously listed. (If you are using the same folder you can freely delete the 'autoVCS.spec' file and the 'build' folder. Also move the previous autoVCS.exe elsewhere or delete it, but make sure to hold on to default_VCS_template.pptx)
 4. Then, open a terminal (Command Prompt works) and navigate to the directory containing the program files (example command: "cd C:\Users\example\autoVCSeg")
-5. Finally, paste the command found in 'create_exe_command.txt' and press enter. 
+5. Finally, paste the command found in 'create_exe_command.txt' and press enter. (Make sure you have pyinstaller installed (you can pip install it).)
 6. After a short while, you will have an exe file 'autoVCS.exe' in a 'dist' folder.
 7. To use this program, move the 'default_VCS_template.pptx' file into the 'dist' folder. You can move this folder anywhere you want including sending it to another pc.
