@@ -16,6 +16,7 @@ Tool to help in creation of Virtual Control Samples
 10. click move to focus (MAKE SURE ALL PARTS YOU ARE DOING AT ONCE ARE FROM THE SAME VENDOR) All pdf files will be moved to their appropriate location in //focus without overwriting anything there (anythere there will be renamed to previousName_old.pdf)
 11. a list of paths will show so you can confirm if you wish where the pdf files went
 
+<img width="400" alt="autoVCS" src="https://github.com/Shakosh/autoVCS/assets/109931661/160fc2cc-4fed-4cb7-a109-96726ec07ad6">
 
 ## **How to update program:**
 
