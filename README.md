@@ -9,7 +9,7 @@ Tool to help in creation of Virtual Control Samples
 3. click create folders (a folder for each part number will be created in your working directory/folder)
 4. put the part images into their respective folders manually
 5. upload custom PPTX template (optional) (or/also, you can edit the default template if you want)
-6. open, editc and close each PPTX file manually
+6. open, edit, and close each PPTX file manually
 7. click PPTX to PDF (all pptx files you just made will be saved as pdfs as well)
 8. upload to DDS manually
 9. enter vendor code (all parts you are doing at once must be from the same vendor to use this next button)
