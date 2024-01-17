@@ -14,7 +14,7 @@ Tool to help in creation of Virtual Control Samples
 8. upload to DDS manually
 9. enter vendor code (all parts you are doing at once must be from the same vendor to use this next button)
 10. click move to focus (MAKE SURE ALL PARTS YOU ARE DOING AT ONCE ARE FROM THE SAME VENDOR) All pdf files will be moved to their appropriate location in //focus without overwriting anything there (anythere there will be renamed to previousName_old.pdf)
-11. a list of paths will show so you can confirm if you wish where the pdf files went
+11. a list of paths will show so you can see confirmation of where the pdf files went
 
 <img width="400" alt="autoVCS" src="https://github.com/Shakosh/autoVCS/assets/109931661/160fc2cc-4fed-4cb7-a109-96726ec07ad6">
 
@@ -28,7 +28,7 @@ To update this program with changes, the required files (in the same directory) 
 - `default_VCS_template.pptx`
 - `create_exe_command.txt`
 
-1. Edit vcstools.py and gui.py to your satisfaction for new / edited features, etc. (Make sure to use a version control system like git if you know how or simply just keep a copy of the two pyhton files incase changes break the program and you need to revert to a previous state.) 
+1. Edit vcstools.py and gui.py to your satisfaction for new / edited features, etc. (Make sure to use a version control system like git if you know how or simply just keep a copy of the two python files incase changes break the program and you need to revert to a previous state.) 
 2. After changes have been made to the program, it can be test run by just running the gui.py file. If all is well, a new exe file can be generated. 
 3. First, to keep clean workspace, ensure you have a directory with and only with the 6 required files previously listed. (If you are using the same folder you can freely delete the 'autoVCS.spec' file and the 'build' folder. Also move the previous autoVCS.exe elsewhere or delete it, but make sure to hold on to default_VCS_template.pptx)
 4. Then, open a terminal (Command Prompt works) and navigate to the directory containing the program files (example command: "cd C:\Users\example\autoVCSeg")
